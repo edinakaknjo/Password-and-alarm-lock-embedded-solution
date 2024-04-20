@@ -1,5 +1,5 @@
-!!!This solution is done on Bosnian language but code can be easily translated!!!
-Tinkercad link: https://www.tinkercad.com/things/1e9Dcp66szJ-z1256us 
+!!!This solution is done on Bosnian language but code can be easily translated!!! <br>
+Tinkercad link: https://www.tinkercad.com/things/1e9Dcp66szJ-z1256us <br>
 This embedded Solution represents door unlock system using password and is backed up with alarm. 
 On the picture below is shown the Circuit View of the system- prompting user to enter password.
 ![Circuit View](us1 pic/111111111.png)
